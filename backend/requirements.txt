@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+livekit
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-openai
+sqlalchemy
+python-dotenv
+httpx
